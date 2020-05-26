@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff3adf5a-c8b3-4eed-a583-c3d52d2bcf36" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/.ipynb_checkpoints/checkpoint-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/.ipynb_checkpoints/hparams-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/.ipynb_checkpoints/log_1587726538-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/.ipynb_checkpoints/log_1587733829-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/.ipynb_checkpoints/log_1587781644-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/.ipynb_checkpoints/log_1588318218-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/.ipynb_checkpoints/hparams-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/hparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/train_log/events.out.tfevents.1587826949.eca3a689054d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/train_log/events.out.tfevents.1588373810.eca3a689054d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/translate.ckpt-115000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/translate.ckpt-115000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/translate.ckpt-115000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/translate.ckpt-120000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/translate.ckpt-120000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/best_bleu/translate.ckpt-120000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/hparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/log_1587726538" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/log_1587733829" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/log_1587781644" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/log_1588317796" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/log_1588318218" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/output_dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/output_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-119000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-119000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-119000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-12000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-12000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-12000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-120000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-120000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_256_en_to_ch/translate.ckpt-120000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en (1).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/.ipynb_checkpoints/hparams-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/.ipynb_checkpoints/log_1587563928-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/.ipynb_checkpoints/log_1587614467-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/.ipynb_checkpoints/log_1588384324-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/.ipynb_checkpoints/log_1588481939-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/best_bleu/.ipynb_checkpoints/checkpoint-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/best_bleu/.ipynb_checkpoints/hparams-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/best_bleu/hparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/best_bleu/translate.ckpt-130000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/best_bleu/translate.ckpt-130000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/best_bleu/translate.ckpt-130000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/log_1587563928" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/log_1587614467" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/log_1587715114" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/log_1588384324" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/log_1588481939" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/output_dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/output_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-127000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-127000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-127000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-128000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-128000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-128000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-129000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-129000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-129000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-130000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-130000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-130000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-131000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-131000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_attention_model/model_512_512_60000_300_ch_to_en/translate.ckpt-131000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nmt/tmp/nmt_data/test.ch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/attention_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/g3doc/img/attention_equation_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/g3doc/img/attention_equation_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/g3doc/img/attention_mechanism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/g3doc/img/attention_vis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/g3doc/img/encdec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/g3doc/img/greedy_dec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/g3doc/img/seq2seq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/gnmt_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/inference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/inference_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/model_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/model_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/nmt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/nmt_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/scripts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/scripts/bleu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/scripts/download_iwslt15.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/scripts/rouge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/scripts/wmt16_en_de.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/standard_hparams/iwslt15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/standard_hparams/wmt16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/standard_hparams/wmt16_gnmt_4_layer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/standard_hparams/wmt16_gnmt_8_layer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/deen_output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/deen_ref_bpe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/deen_ref_spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/iwslt15.tst2013.100.en" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/iwslt15.tst2013.100.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/iwslt15.vocab.100.en" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/iwslt15.vocab.100.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/label_ref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/pred_output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/test_embed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/test_embed_with_header.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/test_infer_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/test_infer_vocab.src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/testdata/test_infer_vocab.tgt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/common_test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/evaluation_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/evaluation_utils_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/iterator_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/iterator_utils_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/misc_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/misc_utils_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/nmt_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/standard_hparams_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/vocab_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/utils/vocab_utils_test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nmt" />
+  </component>
+  <component name="ProjectId" id="1aDTJ5AvVRdiHJ6uTH7Y8HkLcxP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/新建临时文件" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimpleTranslator" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.run_main">
+    <configuration name="训练词向量" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="translate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/训练词向量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Translator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="translate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Translator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="translate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="translate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.训练词向量" />
+        <item itemvalue="Python.Translator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff3adf5a-c8b3-4eed-a583-c3d52d2bcf36" name="默认更改列表" comment="" />
+      <created>1586269089696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586269089696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1586271072360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586271072360" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586595490474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586595490474" />
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587283779392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1587283779392" />
+    <state x="531" y="241" key="#com.intellij.tools.ToolEditorDialog" timestamp="1587304604181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="241" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1587304604181" />
+    <state x="685" y="211" width="554" height="489" key="FileChooserDialogImpl" timestamp="1589947829992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="-869" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1587440077998" />
+    <state x="548" y="167" width="554" height="489" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588246517725" />
+    <state x="685" y="211" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1589947829992" />
+    <state width="1899" height="326" key="GridCell.Tab.0.bottom" timestamp="1589640824494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588942030612" />
+    <state width="1515" height="66" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588943486661" />
+    <state width="1899" height="326" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1589640824494" />
+    <state width="1899" height="326" key="GridCell.Tab.0.center" timestamp="1589640824494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588942030612" />
+    <state width="1515" height="66" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588943486660" />
+    <state width="1899" height="326" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1589640824494" />
+    <state width="1899" height="326" key="GridCell.Tab.0.left" timestamp="1589640824494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588942030612" />
+    <state width="1515" height="66" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588943486660" />
+    <state width="1899" height="326" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1589640824494" />
+    <state width="1899" height="326" key="GridCell.Tab.0.right" timestamp="1589640824494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588942030612" />
+    <state width="1515" height="66" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588943486660" />
+    <state width="1899" height="326" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1589640824494" />
+    <state width="1515" height="66" key="GridCell.Tab.1.bottom" timestamp="1588943486470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588942030376" />
+    <state width="1515" height="66" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588943486470" />
+    <state width="1515" height="66" key="GridCell.Tab.1.center" timestamp="1588943486470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588942030376" />
+    <state width="1515" height="66" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588943486470" />
+    <state width="1515" height="66" key="GridCell.Tab.1.left" timestamp="1588943486469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588942030376" />
+    <state width="1515" height="66" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588943486469" />
+    <state width="1515" height="66" key="GridCell.Tab.1.right" timestamp="1588943486470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588942030376" />
+    <state width="1515" height="66" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588943486470" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1588079126871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588079126871" />
+    <state x="584" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1589947637888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="584" y="-782" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1588940724993" />
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588246190046" />
+    <state x="584" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1589947637888" />
+    <state x="584" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589093205184" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586345397677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586345397677" />
+  </component>
+</project>

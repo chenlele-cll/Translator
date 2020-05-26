@@ -1,0 +1,4 @@
+tests proved this method is simple and more effective than binary search method .
+word length is a computer can directly handle binary information digits .
+it is pointed out and proved post order and in order traversal sequence also determine a unique binary tree , proof demonstration will be given .
+a mathematical model is firstly proposed . then the greedy heuristic algorithm is applied to solve the model .
